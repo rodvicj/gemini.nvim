@@ -4,7 +4,7 @@ local util = require('gemini.util')
 local M = {}
 
 local default_model_config = {
-  completion_delay = 500,
+  completion_delay = 100,
   model_id = api.MODELS.GEMINI_1_5_PRO,
   temperature = 1,
   top_k = 40,
