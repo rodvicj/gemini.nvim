@@ -79,7 +79,7 @@ default setting
 {
   model_config = {
     completion_delay = 1000,
-    model_id = api.MODELS.GEMINI_1_5_FLASH,
+    model_id = api.MODELS.GEMINI_1_5_PRO,
     temperature = 0.01,
     top_k = 1.0,
     max_output_tokens = 8196,
